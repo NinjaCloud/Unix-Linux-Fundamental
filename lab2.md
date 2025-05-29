@@ -1,4 +1,4 @@
-# Genral Commands
+# General Commands
 
 ## **`cat`**
 
