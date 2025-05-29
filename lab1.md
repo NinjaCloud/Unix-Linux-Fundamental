@@ -340,5 +340,4 @@ rm [options] [file/directory]
   ```
   rm !(important.txt)
   ```
-  reboot
-  ```
+
