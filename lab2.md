@@ -22,6 +22,19 @@ Where:
 
 ### **Examples:**
 
+- Create a new file and add content:
+   ```bash
+   cat > file1.txt
+   ```
+   ```
+   This is a test file.
+   It contains random text.
+   Used for testing purposes.
+   ```
+
+
+   (Press **Ctrl + D** to save and exit.)
+
 - View the content of a file:
    ```bash
    cat file.txt
@@ -35,13 +48,6 @@ Where:
    ```bash
    less file.txt
    ```
-
-- Create a new file and add content:
-   ```bash
-   cat > file1.txt
-   ```
-   (Press **Ctrl + D** to save and exit.)
-
 - Append content to an existing file:
    ```bash
    cat >> file1.txt
