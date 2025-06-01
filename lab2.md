@@ -59,7 +59,7 @@ Where:
 
 - Display line numbers while viewing a file:
    ```bash
-   cat -n filename
+   cat -n file.txt
    ```
 - Remove extra blank lines in a text file:
     ```bash
