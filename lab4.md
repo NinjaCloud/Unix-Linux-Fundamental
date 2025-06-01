@@ -144,5 +144,5 @@ Redirection in Linux allows you to control the input and output of commands. It 
 - **Redirecting both output and error to different files:**
 
   ```
-  command > output.txt 2> error.txt
+  cat mynewfile.txt > output.txt 2> error.txt
   ```
