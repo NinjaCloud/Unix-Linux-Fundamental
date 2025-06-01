@@ -54,7 +54,7 @@ Where:
    ```
 - Combine multiple files into one:
    ```bash
-   cat file1.txt file2.txt > merged.txt
+   cat file.txt file1.txt > merged.txt
    ```
 
 - Display line numbers while viewing a file:
