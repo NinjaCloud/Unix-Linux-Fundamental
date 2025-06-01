@@ -24,7 +24,7 @@ Where:
 
 - Create a new file and add content:
    ```bash
-   cat > file1.txt
+   cat > file.txt
    ```
    ```
    This is a test file.
