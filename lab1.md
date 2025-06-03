@@ -227,6 +227,8 @@ shutdown [options] [time]
 ## `reboot`  
 - Reboots the system.  
   ```
+  sudo reboot
+  ```
 
 ## `touch`  
 Creates a new empty file or updates the timestamp of an existing file without modifying its contents.  
