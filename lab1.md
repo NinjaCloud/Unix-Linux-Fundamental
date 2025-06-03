@@ -54,7 +54,7 @@ cd [directory]
 **Examples:**  
 - Go to a specific folder  
   ```
-  cd /home/user/documents
+  cd /home/
   ```
 - Move up one level  
   ```
