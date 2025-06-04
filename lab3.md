@@ -11,22 +11,21 @@ echo "Welcome to the Linux System Information Lab!"
 This command displays a custom welcome message.
 
 ```bash
-echo "System Kernel Name:"
-uname
+echo "System Kernel Name:" && uname
 ```
 
 This prints the name of the kernel the system is using.
 
 ```bash
-echo "Hostname of the System:"
-hostname
+echo "Hostname of the System:" && hostname
+
 ```
 
 This displays the network name of your machine.
 
 ```bash
-echo "System Uptime:"
-uptime
+echo "System Uptime:" && uptime
+
 ```
 
 
